@@ -1,0 +1,2 @@
+this is git 
+And i'm using it for git
